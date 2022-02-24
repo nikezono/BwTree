@@ -1,5 +1,5 @@
 
-CXX = g++-5
+CXX = g++
 PAPI_FLAG = -lpapi
 CXX_FLAG = -pthread -std=c++11 -g -Wall -mcx16 -Wno-invalid-offsetof $(PAPI_FLAG)
 GMON_FLAG = 
