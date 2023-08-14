@@ -35,6 +35,7 @@
 // offsetof() is defined here
 #include <cstddef>
 #include <vector>
+#include <stdio.h>
 
 /*
  * BWTREE_PELOTON - Specifies whether Peloton-specific features are
